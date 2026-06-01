@@ -11,7 +11,7 @@ After watching Python courses, I've decided to put in practice some of the new k
 - 🔴 **Warning**: Are the thieves, this status will be in the program only if the suspect is a thief saved in the files of the program and the program as caution's status happened, will be two photo, the registered and the taken in the moment. In this case the photo borders will be red.
 
 ## About policy 
-This project hasn't any commercial purpose, it was done only to practice my knowledge that I acquired in the past and show it to the world, the use of celebrities pictures is only to make entertaining this program with these examples. 
+This project hasn't any commercial purpose, it was done only to practice my knowledge that I acquired in the past and show it to the world, the use of celebrities pictures is only to make this program entertaining with these examples. 
 
 ## How start the project 
 After all this theoretical plan, the requirements that you need to use this project are: 
